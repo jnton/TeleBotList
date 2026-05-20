@@ -1,12 +1,12 @@
 [![GitHub Logo](https://graph.org//file/a8989d31179c07165fc6f.jpg)](https://github.com/MoonWalker440/TeleBotList)
 
- <h1 align="center">Tele Bot List</h1>
+<h1 align="center">Tele Bot List</h1>
 
-<p align="center"
->This repository is a curated list of open source Telegram bots, with links to their source code on GitHub. The purpose of this list is to help developers find and learn from open-source Telegram bots, and to encourage the sharing of knowledge and best practices among the Telegram bot developer community. The list is frequently updated with new bots and improvements. All programming languages are listed by alphabetical order. </p>
+<p align="center">This repository is a curated list of open source Telegram bots, with links to their source code on GitHub. The purpose of this list is to help developers find and learn from open-source Telegram bots, and to encourage the sharing of knowledge and best practices among the Telegram bot developer community. The list is frequently updated with new bots and improvements. All programming languages are listed by alphabetical order. </p>
 
 <p align="center">
           <img src="https://m3-markdown-badges.vercel.app/stars/1/2/MoonWalker440/TeleBotList">
+</p>
 
 <details>
   <summary><h2>Tele Bot List</h2></summary>
@@ -16,25 +16,25 @@
 ➤ Languages
 
 - [Bash](#-bash)
-- [C#](https://github.com/MoonWalker440/TeleBotList#-c)
+- [C#](#-c)
 - [Fluent](#-fluent)
-- [Go](https://github.com/MoonWalker440/TeleBotList#-go)
-- [Java](https://github.com/MoonWalker440/TeleBotList#-java)
-- [JavaScript](https://github.com/MoonWalker440/TeleBotList#-javaScript)
-- [Lua](https://github.com/MoonWalker440/TeleBotList#-lua)
+- [Go](#-go)
+- [Java](#-java)
+- [JavaScript](#-javaScript)
+- [Lua](#-lua)
 - [Nim](#-nim)
-- [php](https://github.com/MoonWalker440/TeleBotList#-php)
-- [Python](https://github.com/MoonWalker440/TeleBotList#-python)
-- [Ruby](https://github.com/MoonWalker440/TeleBotList#-ruby)
-- [Rust](https://github.com/MoonWalker440/TeleBotList#-rust)
+- [php](#-php)
+- [Python](#-python)
+- [Ruby](#-ruby)
+- [Rust](#-rust)
 - [Shell](#-shell)
-- [TypeScript](https://github.com/MoonWalker440/TeleBotList#-typeScript)
+- [TypeScript](#-typeScript)
 
 ➤ [Tools](#-tools)
 
-➤ [Disclaimer](https://github.com/MoonWalker440/TeleBotList#-disclaimer)
+➤ [Disclaimer](#-disclaimer)
 
-➤ [Contribution](https://github.com/MoonWalker440/TeleBotList#-contribution)
+➤ [Contribution](#-contribution)
 
 </details>
 
@@ -112,17 +112,17 @@
 
 - [@GroupButler_bot](https://t.me/GroupButler_bot) - This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more. [GitHub](https://github.com/group-butler/GroupButler)
 
-### Nim
+### ➤ Nim
 
 - [@MarkinimBot](https://t.me/MarkinimBot) - A bot that learn from your messages and generate it's own sentences. [GitHub](https://github.com/DavideGalilei/markinim)
 
 ### ➤ php
 
-- [@Giveaways_Bot](https://telegram.me/Giveaways_Bot)❌ - A Telegram Bot to handle giveaways right on Telegram. [GitHub](https://github.com/DanySpin97/GiveawaysBot)
+- [@Giveaways_Bot](https://telegram.me/Giveaways_Bot) ❌ - A Telegram Bot to handle giveaways right on Telegram. [GitHub](https://github.com/DanySpin97/GiveawaysBot)
 
 - [@InlineGamesBot](https://t.me/InlineGamesBot) - A Telegram bot that provides real-time multiplayer games that can be played in any chat. [GitHub](https://github.com/jacklul/inlinegamesbot)
 
-- [@UrbanBot](https://t.me/UrbanBot)❌ - Telegram bot to retrieve words or phrases definitions from Urban Dictionary. [GitHub](https://github.com/shkoliar/urban-dictionary-telegram-bot)
+- [@UrbanBot](https://t.me/UrbanBot) ❌ - Telegram bot to retrieve words or phrases definitions from Urban Dictionary. [GitHub](https://github.com/shkoliar/urban-dictionary-telegram-bot)
 
 ### ➤ Python
 
@@ -225,7 +225,7 @@
 
 - [WhisperBot](https://github.com/sobirjonovme/WhisperBot) - WhisperBot is a Telegram bot that allows users to send secret or important messages to selected members of a group. 
 
-- [@ExonRobot](https://t.me/Exon_Robot)❌ - A Fast Telegram Group Management Bot. [GitHub](https://github.com/Abishnoi69/ExonRobot)
+- [@ExonRobot](https://t.me/Exon_Robot) ❌ - A Fast Telegram Group Management Bot. [GitHub](https://github.com/Abishnoi69/ExonRobot)
 
 - [@pdfbot](https://t.me/pdfbot) - A Telegram bot that can do a lot of things related to PDF files. [GitHub](https://github.com/zeshuaro/telegram-pdf-bot)
 
@@ -237,11 +237,11 @@
 
 - [YouTube Summarizer Bot](https://github.com/Harshit-shrivastav/YouTube-Summarizer-Bot) - A telegram bot that can Summarize youtube video using AI
 
-- [@AiCompBot](https://t.me/AiCompBot]❌ - A Telegram bot interface for AI models available for free via Cloudflare Workers AI API. [GitHub](https://github.com/natnaelab/AI_Companion_Bot)
+- [@AiCompBot](https://t.me/AiCompBot) ❌ - A Telegram bot interface for AI models available for free via Cloudflare Workers AI API. [GitHub](https://github.com/natnaelab/AI_Companion_Bot)
 
-- [PixelDrain Bot](https://t.me/aquaxpdbot)❌ - A Telegram media to PixelDrain upload bot, providing a seamless integration for file sharing. [GitHub](https://github.com/Burhanverse/Pixeldrain-Bot)
+- [PixelDrain Bot](https://t.me/aquaxpdbot) ❌ - A Telegram media to PixelDrain upload bot, providing a seamless integration for file sharing. [GitHub](https://github.com/Burhanverse/Pixeldrain-Bot)
 
-- [@SpotSeekBot](https://t.me/SpotSeekBot) - Spotify Downloader. [GitHub](https://github.com/arashnm80/spot-seek-bot)
+- [@janisreleasebot](https://t.me/janisreleasebot) - A Telegram bot that notifies you of new GitHub releases. [GitHub](https://github.com/JanisV/release-bot)
 
 - [@TorrentHuntBot](https://t.me/TorrentHuntBot?start=github) - The ultimate torrent bot on telegram. [GitHub](https://github.com/hemantapkh/TorrentHunt)
 
